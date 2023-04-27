@@ -1,0 +1,24 @@
+C:\Users\Administrator\Desktop\YURT UYGULAMASI\bin\Debug\YURT UYGULAMASI.exe.config
+C:\Users\Administrator\Desktop\YURT UYGULAMASI\bin\Debug\YURT UYGULAMASI.exe
+C:\Users\Administrator\Desktop\YURT UYGULAMASI\bin\Debug\YURT UYGULAMASI.pdb
+C:\Users\Administrator\Desktop\YURT UYGULAMASI\obj\Debug\YURT UYGULAMASI.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\YURT UYGULAMASI\obj\Debug\YURT UYGULAMASI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\YURT UYGULAMASI\obj\Debug\YURT UYGULAMASI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\YURT UYGULAMASI\obj\Debug\YURT UYGULAMASI.exe
+C:\Users\Administrator\Desktop\YURT UYGULAMASI\obj\Debug\YURT UYGULAMASI.pdb
+C:\Users\pc\Desktop\YURT UYGULAMASI\obj\Debug\YURT UYGULAMASI.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\YURT UYGULAMASI\obj\Debug\YURT UYGULAMASI.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\YURT UYGULAMASI\obj\Debug\YURT UYGULAMASI.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\YURT UYGULAMASI\obj\Debug\YURT UYGULAMASI.exe
+C:\Users\pc\Desktop\YURT UYGULAMASI\obj\Debug\YURT UYGULAMASI.pdb
+C:\Users\pc\Desktop\YURT UYGULAMASI\bin\Debug\YURT UYGULAMASI.exe.config
+C:\Users\pc\Desktop\YURT UYGULAMASI\bin\Debug\YURT UYGULAMASI.exe
+C:\Users\pc\Desktop\YURT UYGULAMASI\bin\Debug\YURT UYGULAMASI.pdb
+C:\Users\pc\Desktop\Beyza'nın Klasörü\YURT UYGULAMASI\bin\Debug\YURT UYGULAMASI.exe.config
+C:\Users\pc\Desktop\Beyza'nın Klasörü\YURT UYGULAMASI\bin\Debug\YURT UYGULAMASI.exe
+C:\Users\pc\Desktop\Beyza'nın Klasörü\YURT UYGULAMASI\bin\Debug\YURT UYGULAMASI.pdb
+C:\Users\pc\Desktop\Beyza'nın Klasörü\YURT UYGULAMASI\obj\Debug\YURT UYGULAMASI.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Beyza'nın Klasörü\YURT UYGULAMASI\obj\Debug\YURT UYGULAMASI.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\Beyza'nın Klasörü\YURT UYGULAMASI\obj\Debug\YURT UYGULAMASI.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Beyza'nın Klasörü\YURT UYGULAMASI\obj\Debug\YURT UYGULAMASI.exe
+C:\Users\pc\Desktop\Beyza'nın Klasörü\YURT UYGULAMASI\obj\Debug\YURT UYGULAMASI.pdb
